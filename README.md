@@ -1,1 +1,1 @@
-#1 Run index.html file
+1. Run index.html file
